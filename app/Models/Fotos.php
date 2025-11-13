@@ -18,6 +18,6 @@ class Fotos extends Model
 
     public function carro()
     {
-        return $this->belongsTo(Carro::class, 'carro_id');
+        return $this->belongsTo(Carro::class, 'carro_id', 'id');
     }
 }

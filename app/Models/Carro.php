@@ -21,6 +21,6 @@ class Carro extends Model
 
     public function fotos()
     {
-        return $this->hasMany(Fotos::class, 'carro_id');
+        return $this->hasMany(Fotos::class, 'carro_id', 'id');
     }
 }

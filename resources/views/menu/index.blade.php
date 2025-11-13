@@ -15,7 +15,9 @@ Loja
                                 <h4>Nós somos a Motors</h4>
                                 <span>A melhor loja de carros de luxo</span>
                                 <div class="main-border-button">
-                                    <a href="#">Compre agora</a>
+                                    <ul class="nav">
+                                        <li class="scroll-to-section"><a href="#men">Compre agora</a></li>
+                                </ul>
                                 </div>
                             </div>
                             <img src="https://www.supertopmotor.com.br/wp-content/uploads/2018/01/ViewImage-2.jpg" alt="">

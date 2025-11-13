@@ -16,17 +16,25 @@ class lojaController extends Controller
         return view('menu.index', compact('carros', 'carrosPorMarca'));
     }
 
-    public function perMarca(Request $request){
-        $marca = $request->input('marca');
+    public function perMarca($marca){
+        $carrosUmaMarca = Carro::where('marca', $marca)
+        ->with('fotos')
+        ->get();
+        
+        $carros = Carro::with('fotos')->get();
         $carrosPorMarca = $carros->groupBy('marca');
-        $query = Carro::with('fotos');
 
-        if ($marca) {
-        $query->where('marca', $marca);
-        }
-
-        $carros = $query->get();
-
-        return view('menu.marca', compact('carros', 'marca', 'carrosPorMarca'));
+        return view('menu.marca', compact('carrosUmaMarca', 'marca', 'carrosPorMarca'));
     }
+
+    public function carroUnico($id){
+        $carroUnico = Carro::with('fotos')->find($id);
+
+
+
+        $carros = Carro::with('fotos')->get();
+        $carrosPorMarca = $carros->groupBy('marca');
+
+        return view('menu.carro', compact('carros', 'carrosPorMarca', 'carroUnico'));
+    } 
 }

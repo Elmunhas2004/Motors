@@ -23,5 +23,6 @@ require __DIR__.'/auth.php';
 
 Route::prefix('loja')->group(function(){
     Route::get('/menu', [LojaController::class, 'index'])->name('loja.menu');
-    Route::get('/marca', [LojaController::class, 'perMarca'])->name('loja.marca');
+    Route::get('/marca/{marca}', [LojaController::class, 'perMarca'])->name('loja.marca');
+    Route::get('/carro/{id}', [LojaController::class, 'carroUnico'])->name('loja.produto');
 });
