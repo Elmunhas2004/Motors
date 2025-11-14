@@ -68,7 +68,7 @@ https://templatemo.com/tm-571-hexashop
                                         @endforeach
                                     </ul>
                                 </li>
-                                <li class="scroll-to-section"><a href="#explore">🚺Login</a></li>
+                                <li class="scroll-to-section"><a href=" {{ route('login') }} ">🚺Login</a></li>
                             </ul>
                             <a class='menu-trigger'>
                                 <span>Menu</span>

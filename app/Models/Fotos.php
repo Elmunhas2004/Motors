@@ -11,6 +11,8 @@ class Fotos extends Model
 
     protected $table = 'fotos';
 
+    public $timestamps = false;
+    
     protected $fillable = [
         'carro_id',
         'link_foto'

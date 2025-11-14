@@ -9,6 +9,8 @@ class Carro extends Model
 {
     use HasFactory;
 
+    public $timestamps = false;
+
     protected $table = 'carro';
 
     protected $fillable = [
@@ -16,7 +18,8 @@ class Carro extends Model
         'descricao',
         'Ano_fabricacao',
         'cor',
-        'preco'
+        'preco',
+        'kmRodado'
     ];
 
     public function fotos()

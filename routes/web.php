@@ -3,10 +3,9 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\lojaController;
+use App\Http\Controllers\AdminCOntroller;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [LojaController::class, 'index'])->name('home');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
@@ -16,6 +15,19 @@ Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+});
+
+Route::middleware(['auth'])->prefix('admin')->group(function () {
+    Route::get('/veiculos', [AdminCOntroller::class, 'index'])->name('admin.veiculos');
+
+    Route::get('/editar-veiculo/{id}', [AdminCOntroller::class, 'editar'])->name('admin.editar-veiculo');
+
+    Route::put('/salvar/{id}', [AdminController::class, 'salvar'])->name('admin.salvar-edicao');
+
+    Route::get('/cadastro-veiculo', [AdminController::class, 'create'])->name('admin.cadastro-veiculo');
+
+    Route::post('/cadastro-veiculo', [AdminController::class, 'cadastrarSalvar'])->name('admin.salvar-veiculo');
+
 });
 
 require __DIR__.'/auth.php';

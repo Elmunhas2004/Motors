@@ -138,7 +138,7 @@ Loja
                                             <div class="hover-content">
                                                 <div class="inner">
                                                     <div class="main-border-button">
-                                                        <a href="#">Ver mais</a>
+                                                        <a href="{{ route('loja.produto', ['id' => $carro->id ]) }}">Ver mais</a>
                                                     </div>
                                                 </div>
                                             </div>

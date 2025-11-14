@@ -36,5 +36,5 @@ class lojaController extends Controller
         $carrosPorMarca = $carros->groupBy('marca');
 
         return view('menu.carro', compact('carros', 'carrosPorMarca', 'carroUnico'));
-    } 
+    }
 }
