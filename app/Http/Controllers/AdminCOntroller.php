@@ -18,6 +18,12 @@ class AdminCOntroller extends Controller
         return view('admin.cadastro-veiculo');
     }
 
+    public function deletar($id){
+        $carro = Carro::findOrFail($id);
+        $carro->delete();
+
+        return redirect()->route('admin.veiculos')->with('success', 'Veículo deletado com sucesso!');
+    }
 
     public function editar($id){
         $carroUnico = Carro::with('fotos')->find($id);

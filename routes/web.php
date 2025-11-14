@@ -20,6 +20,8 @@ Route::middleware('auth')->group(function () {
 Route::middleware(['auth'])->prefix('admin')->group(function () {
     Route::get('/veiculos', [AdminCOntroller::class, 'index'])->name('admin.veiculos');
 
+    Route::get('/deletar-veiculo/{id}', [AdminController::class, 'deletar'])->name('admin.deletar-veiculo');
+    
     Route::get('/editar-veiculo/{id}', [AdminCOntroller::class, 'editar'])->name('admin.editar-veiculo');
 
     Route::put('/salvar/{id}', [AdminController::class, 'salvar'])->name('admin.salvar-edicao');

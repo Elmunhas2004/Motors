@@ -40,6 +40,7 @@
                                 <td class="text-truncate border border-dark">{{ $carro->kmRodado }}</td>
                                 <td class="text-truncate border border-dark">
                                 <a href="{{route('admin.editar-veiculo', ['id' => $carro->id ])}}" class="btn btn-warning btn-sm me-2">🛠</a>
+                                <a href="{{ route('admin.deletar-veiculo', ['id' => $carro->id]) }}" class="btn btn-danger btn-sm me-2" onclick="return confirm('Tem certeza que deseja deletar este veículo?')">⚔</a>
                             </td>
                             @endforeach
                         </tbody>
