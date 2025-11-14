@@ -3,7 +3,7 @@ Trabalho Laravel/Breeze de um site para venda de carros
 
 ## Requisitos para sua execução.
 
-  1. Instalaão do PHP
+  1. Instalação do PHP
      [php](https://www.php.net/downloads.php)
   3. Instalação do Composer
      [composer](https://getcomposer.org/download/)
@@ -15,11 +15,11 @@ Trabalho Laravel/Breeze de um site para venda de carros
 ## Realizando criação do servidor.
 
   1. Abra o terminal no local que deseja que o projeto fique armazena e execute os seguites comando já ordenados:
-      - Criação do projeto Laravel
+      - Criação do projeto Laravel:
         * `composer create-project laravel/laravel Motors`
         * `cd Motors`
         
-      - Instalação da extensão Laravel/Breeze
+      - Instalação da extensão Laravel/Breeze:
         * `composer require laravel/breeze --dev`
         * `php artisan breeze:install blade`
         
