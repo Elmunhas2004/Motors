@@ -5,8 +5,8 @@ _Aluno:_ *Lucas Alexandre Pires Munhoz*
 _R.A:_ *020124002*
 
 
-## Usuario Administrador: motorssite2025@gmail.com 
-## Senha Administrador:  admin2025
+_Usuario Administrador:_ *motorssite2025@gmail.com* 
+_Senha Administrador:_  *admin2025*
 
 
 ## Requisitos para sua execução.
