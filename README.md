@@ -32,6 +32,7 @@ Trabalho Laravel/Breeze
   3. Substituir as seguintes Pastas e Arquivos para para que o site seja executado:
       * App
       * Resouces
+      * Routes
       * Database
       * Public
       * .env
