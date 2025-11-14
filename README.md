@@ -3,16 +3,14 @@ Trabalho Laravel/Breeze de um site para venda de carros
 
 ## Requisitos para sua execução.
 
-  1. Instalaão do PHP 
-  2. Instalação do Composer
-    * [php](https://www.php.net/downloads.php)
-     
-  4. Instalação do Composer
-    * [composer](https://getcomposer.org/download/)
-     
-  5. Instalação do Node.js
-    * [node](https://nodejs.org/pt/download)
-   <img width="1333" height="685" alt="image" src="https://github.com/user-attachments/assets/dca53849-247f-4841-bd1d-0556c3b5ccdb" />
+  1. Instalaão do PHP
+     [php](https://www.php.net/downloads.php)
+  3. Instalação do Composer
+     [composer](https://getcomposer.org/download/)
+  6. Instalação do Node.js
+     [node](https://nodejs.org/pt/download)
+   ]
+<img width="1333" height="685" alt="image" src="https://github.com/user-attachments/assets/dca53849-247f-4841-bd1d-0556c3b5ccdb" />
 
 ## Realizando criação do servidor.
 
