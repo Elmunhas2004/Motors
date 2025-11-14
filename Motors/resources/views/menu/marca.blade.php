@@ -21,7 +21,7 @@ $marca
                         <img src="{{ $carro->fotos->first()->link_foto }}" class="card-img-top" alt="">
                         <div class="card-body d-flex flex-column">
                             <h5 class="card-title">{{ $carro->descricao }}</h5>
-                            <p class="card-text">{{ $carro->preco }}</p>
+                            <p class="card-text">RS {{ $carro->preco }}</p>
                             <div class="mt-auto">
                                 <a href=" {{ route('loja.produto', ['id' => $carro->id ]) }} " class="btn btn-primary w-100">Ver mais</a>
                             </div>
