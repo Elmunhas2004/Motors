@@ -1,6 +1,9 @@
 # Motors
 Trabalho Laravel/Breeze de um site para venda de carros
 
+_Aluno: Lucas Alexandre Pires Munhoz_
+_R.A: 020124002_
+
 ## Requisitos para sua execução.
 
   1. Instalação do PHP
