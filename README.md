@@ -4,6 +4,11 @@ Trabalho Laravel/Breeze de um site para venda de carros
 _Aluno:_ *Lucas Alexandre Pires Munhoz*
 _R.A:_ *020124002*
 
+
+## Usuario Administrador: motorssite2025@gmail.com 
+## Senha Administrador:  admin2025
+
+
 ## Requisitos para sua execução.
 
   1. Instalação do PHP
