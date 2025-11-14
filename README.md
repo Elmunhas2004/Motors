@@ -69,52 +69,52 @@ Trabalho Laravel/Breeze de um site para venda de carros
 
 
 * Tela de enviou de e-mail para recuperação de senha
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00010.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0010.jpg" />
 
 
 * Tela de cadastro
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00011.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0011.jpg" />
 
 
 * Tela inicial de administrador
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00012.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0012.jpg" />
 
 
 * Tela de cadastro de veiculo novo
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00013.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0013.jpg" />
 
 
 * Tela de Grid/lista de todos os veiculos cadastrados
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00014.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0014.jpg" />
 
 
 * Confirmação de exclusão de Veiculo
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00015.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0015.jpg" />
 
 
 * Tela de Edição de veiculo cadastrado
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00016.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0016.jpg" />
 
 
 * Opções de Logoff e acesso da edição de perfil
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00017.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0017.jpg" />
 
 
 * Tela de Edição de perfil
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00018.jpg" />
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00019.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0018.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0019.jpg" />
 
 
 * E-mail de redefinição de senha chegando no usuario
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00020.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0020.jpg" />
 
 
 * Tela de redefinição de senha
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00021.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0021.jpg" />
 
 
 * Confirmação de que a senha foi redefinida
-<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00022.jpg" />
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0022.jpg" />
 
 
    
