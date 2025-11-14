@@ -18,8 +18,8 @@ Trabalho Laravel/Breeze de um site para venda de carros
 
   1. Abra o terminal no local que deseja que o projeto fique armazena e execute os seguites comando já ordenados:
       - Criação do projeto Laravel
-        * `composer create-project laravel/laravel nome-do-projeto`
-        * `cd nome-do-projeto`
+        * `composer create-project laravel/laravel Motors`
+        * `cd Motors`
         
       - Instalação da extensão Laravel/Breeze
         * `composer require laravel/breeze --dev`
@@ -39,6 +39,7 @@ Trabalho Laravel/Breeze de um site para venda de carros
         * `npm run dev`
     
   5. Substituir as seguintes Pastas e Arquivos para para que o site seja executado:
+      _Os arquivos necessarios para a instalação esta na pasta Motors_
      
       * App
       * Resouces
