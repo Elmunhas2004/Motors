@@ -49,71 +49,71 @@ Trabalho Laravel/Breeze de um site para venda de carros
 
     
 ## Fotos do Site funcioando:
-*menu
+* menu
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0003.jpg" />
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0004.jpg" />
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0005.jpg" />
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0006.jpg" />
 
 
-*Tela de compra de um produto
+* Tela de compra de um produto
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0007.jpg" />
 
 
-*Filtro por marca
+* Filtro por marca
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0008.jpg" />
 
 
-*Tela de Login
+* Tela de Login
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0009.jpg" />
 
 
-*Tela de enviou de e-mail para recuperação de senha
+* Tela de enviou de e-mail para recuperação de senha
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00010.jpg" />
 
 
-*Tela de cadastro
+* Tela de cadastro
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00011.jpg" />
 
 
-*Tela inicial de administrador
+* Tela inicial de administrador
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00012.jpg" />
 
 
-*Tela de cadastro de veiculo novo
+* Tela de cadastro de veiculo novo
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00013.jpg" />
 
 
-*Tela de Grid/lista de todos os veiculos cadastrados
+* Tela de Grid/lista de todos os veiculos cadastrados
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00014.jpg" />
 
 
-*Confirmação de exclusão de Veiculo
+* Confirmação de exclusão de Veiculo
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00015.jpg" />
 
 
-*Tela de Edição de veiculo cadastrado
+* Tela de Edição de veiculo cadastrado
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00016.jpg" />
 
 
-*Opções de Logoff e acesso da edição de perfil
+* Opções de Logoff e acesso da edição de perfil
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00017.jpg" />
 
 
-*Tela de Edição de perfil
+* Tela de Edição de perfil
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00018.jpg" />
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00019.jpg" />
 
 
-*E-mail de redefinição de senha chegando no usuario
+* E-mail de redefinição de senha chegando no usuario
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00020.jpg" />
 
 
-*Tela de redefinição de senha
+* Tela de redefinição de senha
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00021.jpg" />
 
 
-*Confirmação de que a senha foi redefinida
+* Confirmação de que a senha foi redefinida
 <img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA00022.jpg" />
 
 
