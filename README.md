@@ -6,9 +6,11 @@ Trabalho Laravel/Breeze
   1. Instalaão do PHP 
   2. Instalação do Composer
     * [php](https://www.php.net/downloads.php)
-  3. Instalação do Composer
+     
+  4. Instalação do Composer
     * [composer](https://getcomposer.org/download/)
-  4. Instalação do Node.js
+     
+  5. Instalação do Node.js
     * [node](https://nodejs.org/pt/download)
    <img width="1333" height="685" alt="image" src="https://github.com/user-attachments/assets/dca53849-247f-4841-bd1d-0556c3b5ccdb" />
 
@@ -16,20 +18,25 @@ Trabalho Laravel/Breeze
 
   1. Abra o terminal no local que deseja que o projeto fique armazena e execute os seguites comando já ordenados:
     ### Criação do projeto Laravel
+
         * `composer create-project laravel/laravel nome-do-projeto`
         * `cd nome-do-projeto`
     ### Instalação da extensão Laravel/Breeze
+
         * `composer require laravel/breeze --dev`
         * `php artisan breeze:install blade`
     ### Instalação do Node
+
         * `npm install`
 
-  2. Execução do servidor:
-     ### Deixe 2 terminal executando os seguintes comando:
+  3. Execução do servidor:
+     ### Deixe 2 terminal executando os seguintes comando:,
+     
         * `php artisan serve`
         * `npm run dev`
     
-  3. Substituir as seguintes Pastas e Arquivos para para que o site seja executado:
+  4. Substituir as seguintes Pastas e Arquivos para para que o site seja executado:
+     
       * App
       * Resouces
       * Routes
