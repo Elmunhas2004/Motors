@@ -1,8 +1,8 @@
 # Motors
 Trabalho Laravel/Breeze de um site para venda de carros
 
-_Aluno: *Lucas Alexandre Pires Munhoz*_
-_R.A: *020124002*_
+_Aluno:_ *Lucas Alexandre Pires Munhoz*
+_R.A:_ *020124002*
 
 ## Requisitos para sua execução.
 
