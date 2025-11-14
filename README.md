@@ -49,6 +49,6 @@ Trabalho Laravel/Breeze de um site para venda de carros
 
     
 ## Fotos do Site funcioando:
-
+<img width="1333" height="685" alt="image" src="fotos/IMG-20251114-WA0003.jpg" />
 
    
