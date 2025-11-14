@@ -146,7 +146,7 @@ Loja
                                         </div>
                                         <div class="down-content">
                                             <h4>{{$carro->descricao}}</h4>
-                                            <span>{{$carro->preco}}</span>
+                                            <span>RS {{$carro->preco}}</span>
                                         </div>
                                     </div>
                                 @endif
