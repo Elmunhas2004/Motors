@@ -1,5 +1,5 @@
 # Motors
-Trabalho Laravel/Breeze
+Trabalho Laravel/Breeze de um site para venda de carros
 
 ## Requisitos para sua execução.
 
@@ -29,12 +29,16 @@ Trabalho Laravel/Breeze
         * `npm install`
 
   3. Execução do servidor:
-     ### Deixe 2 terminal executando os seguintes comando:,
+     *Execute o comando para subir e carregar o banco com os dados para testar
+       _Se preferir, executar os INSERTs do arquivo insert_
+       *`php artisan migrate --seed`
+     
+     *Deixe 2 terminal executando os seguintes comando:*
      
         * `php artisan serve`
         * `npm run dev`
     
-  4. Substituir as seguintes Pastas e Arquivos para para que o site seja executado:
+  5. Substituir as seguintes Pastas e Arquivos para para que o site seja executado:
      
       * App
       * Resouces
@@ -42,3 +46,9 @@ Trabalho Laravel/Breeze
       * Database
       * Public
       * .env
+
+    
+## Fotos do Site funcioando:
+
+
+   
